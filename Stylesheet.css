@@ -1,0 +1,106 @@
+*{
+      box-sizing: border-box;
+}
+
+body{
+      padding: 20px 10%; 
+      display: flexbox;
+      
+}
+
+.right{
+      letter-spacing: 1px;
+      word-spacing: 2px;
+      padding: 20px;
+}
+
+.about{
+      font-size: 25px;
+      display: inline-block;
+      color: #000;
+      text-decoration: none;
+      font-weight: 20px;
+      margin-left: 35px; 
+      border: 1px solid lightskyblue;
+}
+
+.web{
+      font-size: larger;
+      color: #87cefa;
+}
+
+
+
+.container{
+      font-size: 12;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      box-sizing: boder-box;
+      background-color: #fff;
+      border: 1px solid lightskyblue;
+      padding: 5px 20px 15px 20px;
+      border-radius: 4px;
+      
+}
+
+.container h2{
+      text-decoration: underline;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: lightskyblue;
+}
+
+.box{
+      font-size: 12;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      box-sizing: boder-box;
+      background-color: #fff;
+      border: 1px solid lightskyblue;
+      padding: 5px 20px 15px 20px;
+      border-radius: 4px;
+}
+
+.box h2{
+      text-decoration: underline;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: lightskyblue;
+}
+
+.Contact{
+      display: inline-block;
+      padding: 12px 28px;
+      background: lightskyblue;
+      color: #fff;
+      border: none;
+      outline: none;
+      border-radius: 40px;
+      font-weight: 600;
+      font-size: 16px;
+      letter-spacing: 1px;
+      
+}
+
+.Contact:hover{
+      color: lightskyblue;
+      background-color: #fff;
+      border: 1px solid lightskyblue;
+}
+
+.table{
+      color: #000;
+      border: 1px solid lightskyblue;
+      padding: 5px 3px;
+}
+
+.skil{
+      color: lightskyblue;
+}
+
+.Collage{
+      color: #87cefa;
+}
+
+.Collage:hover{
+      color: #fff;
+      background-color: #87cefa;
+      border-radius: 40px;
+      border: #87cefa;
+}
